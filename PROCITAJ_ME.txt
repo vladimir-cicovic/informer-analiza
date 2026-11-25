@@ -1,0 +1,8 @@
+Informer.rs: katalog kršenja novinarske etike
+Period: 25. 10. 2025. do 25. 10. 2026.
+
+Kako otvoriti: dvoklik na index.html (Chrome, Edge ili Firefox).
+Nije potreban internet ni instalacija. Folder "podaci" mora ostati pored fajla index.html.
+
+Stranice: Početna, Katalog (pretraga i filteri), Mete, Šifre, Metodologija.
+Iz kataloga se filtrirani slučajevi mogu preuzeti kao CSV tabela (dugme "Izvezi CSV").

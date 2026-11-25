@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="sr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Informer.rs: katalog kršenja novinarske etike</title>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <div class="kicker">Katalog slučajeva <span id="period"></span></div>
+      <div class="naslov">Informer.rs: kršenja novinarske etike</div>
+    </div>
+    <nav id="nav" aria-label="Glavna navigacija">
+      <a href="#/pocetna" data-s="pocetna">Početna</a>
+      <a href="#/katalog" data-s="katalog">Katalog</a>
+      <a href="#/mete" data-s="mete">Mete</a>
+      <a href="#/sifre" data-s="sifre">Šifre</a>
+      <a href="#/metodologija" data-s="metodologija">Metodologija</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="app">
+  <div class="ucitavanje" id="ucitavanje">
+    <div>Učitavanje podataka…</div>
+    <div class="traka"><div id="traka"></div></div>
+  </div>
+</main>
+
+<div class="ovl" id="ovl" role="dialog" aria-modal="true" aria-label="Detalji slučaja"><div class="modal" id="modal"></div></div>
+
+<footer class="wrap podnozje" id="podnozje"></footer>
+
+<script src="podaci/meta.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
